@@ -32,6 +32,7 @@ https://dl.rasterex.com/RxView360ServerR21B269.msi
 To install it you must run the following command from the shell (cmd.exe) with Administrator rights:<br>
 msiexec /i RxView360ServerR21B269.msi
 <br>
+<hr>
 <p>
 <b>All installations requires a separate license to run<br>
 Contact Rasterex Software form more information.
