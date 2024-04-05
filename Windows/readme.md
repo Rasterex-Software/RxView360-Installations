@@ -8,7 +8,7 @@ https://dl.rasterex.com/RxView360_Foxit_64R12.msi
 To install it you must run the following command from the shell (cmd.exe) with Administrator rights:<br>
 msiexec /i RxView360_Foxit_64R12.msi
 
-
+<hr>
 
 <p>
 Only server components (backend):
