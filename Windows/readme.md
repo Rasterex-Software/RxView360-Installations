@@ -35,7 +35,7 @@ msiexec /i RxView360ServerR21B269.msi
 <hr>
 <p>
 <b>All installations requires a separate license to run.<br>
-Contact Rasterex Software form more information.
+Contact Rasterex Software for more information.
 </b>
   
 </p>
