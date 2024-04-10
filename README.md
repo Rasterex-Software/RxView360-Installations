@@ -1,7 +1,7 @@
 <b>You can download RxView360 SDK installations for Windows here:</b>
 <p>
 RxView360 SDK Installation 1<br>
-This installation includes server backend and full GUI viewer.
+This installation includes server backend and full GUI web viewer.
 <p>
 <p>
 https://dl.rasterex.com/RxView360_Foxit_64R12.msi
