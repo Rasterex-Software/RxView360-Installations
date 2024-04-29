@@ -1,4 +1,4 @@
-<b>You can download RxView360 SDK installations for Windows here:</b>
+<h2>You can download RxView360 SDK installations for Windows here:</h2>
 <p>
 RxView360 SDK Installation 1<br>
 This installation includes server backend and full GUI web viewer.
