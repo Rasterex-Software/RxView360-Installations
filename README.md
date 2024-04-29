@@ -1,6 +1,7 @@
 <h2>You can download RxView360 SDK installations for Windows here:</h2>
 <p>
-<b></b>RxView360 SDK Installation 1</p>b><br>
+<b>RxView360 SDK Installation 1</b>
+</p>
 This installation includes server backend and full GUI web viewer.
 <p>
 <p>
@@ -10,10 +11,10 @@ To install it you must run the following command from the shell (cmd.exe) with A
 msiexec /i RxView360_Foxit_64R12.msi
 
 <hr>
-
 <p>
-<b></b>RxView360 SDK Installation 2</p>b><br>
-This installations includes server backend and barebone viewer (no GUI).
+<b>RxView360 SDK Installation 2</b>
+</p>
+This installations includes server backend and a barebone viewer (no GUI).
 <p>
 <p>
 https://dl.rasterex.com/RxView360Barebone.msi
@@ -25,7 +26,8 @@ msiexec /i RxView360Barebone.msi
 
 
 <p>
-<b></b>Only server components (backend)</p>b>:
+<b>Only server components (backend)</b>:
+</p>
 <p>
 https://dl.rasterex.com/RxView360ServerR21B269.msi
 </p>
