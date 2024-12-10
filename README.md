@@ -47,6 +47,12 @@ msiexec /i RxView360ServerR21B269.msi
 <p>
 <b>Legacy RxView360 with BIM examples</b>:
 </p>
+
+<p>
+BIM examples are located under bim sub folder.
+A markup on 3D example is availble with the file markup3d.html
+</p>
+
 <p>
 https://dl.rasterex.com/RxView360_IIS7_Foxit_64R10B26.msi
 </p>
